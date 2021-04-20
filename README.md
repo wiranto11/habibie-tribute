@@ -1,4 +1,4 @@
 # habibie-tribute
-Tribute page untuk chalenge Freecodecamp
+Tribute page for chalenge Freecodecamp
 
-Check it https://wiranto11.github.io/habibie-tribute/
+[Check it](https://wiranto11.github.io/habibie-tribute/) 
